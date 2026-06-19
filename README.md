@@ -93,6 +93,9 @@ https://storyfactory.codeboost.ru
 Передача о кинообразовании через развлечения
 https://t.me/ktodast
 
+kino ip & science challenge
+https://github.com/AndreyLeonov80/bionumbers
+
 ### 2. CodeBoost
 Платформа для автоматического создания программного обеспечения и инженерной документации.
 
@@ -172,6 +175,7 @@ https://t.me/ktodast
 #### 2020-е: Нефтегаз, промышленность, AI и документы
 - Распознавание и классификация документов, роботизация операций, инженерные инструменты.
 - Разработка платформ 3DGPT, CodeBoost и VideoBoost для сложных прикладных контуров.
+- выиграл хакатон https://github.com/AndreyLeonov80/gost 
 
 ---
 
