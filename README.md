@@ -86,6 +86,9 @@ https://rutube.ru/channel/76003443
 
 https://youtube.com/@aidialogru/courses
 
+Программа помогает разрабатывать, внедрять, продавать сценарии
+https://storyfactory.codeboost.ru 
+
 Передача о кинообразовании через развлечения
 https://t.me/ktodast
 
