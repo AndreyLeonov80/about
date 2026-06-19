@@ -203,4 +203,5 @@ DSL Платформа для автоматического создания п
 - https://t.me/aidialognews
 - https://www.youtube.com/@aidialogru
 - https://rutube.ru/channel/76003443
+- https://max.ru/se13317930_biz
 
