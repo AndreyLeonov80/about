@@ -71,8 +71,11 @@ OCR, извлечение таблиц, чтение чертежей и схе�
 - Комбинация аналитики, AI и продуктового слоя для управляемой работы с видео-контентом.
 
 https://www.youtube.com/@aidialogru
+
 https://www.youtube.com/@aidialogru/videos
+
 https://www.youtube.com/@aidialogru/shorts
+
 https://www.youtube.com/@hotpies8/videos
 
 ### 2. CodeBoost
