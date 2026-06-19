@@ -199,7 +199,7 @@ DSL Платформа для автоматического создания п
 - Email: aidialog@mail.ru
 
 Каналы:
-- X: https://x.com/aidialog
+- https://x.com/aidialog
 - https://t.me/aidialognews
 - https://www.youtube.com/@aidialogru
 - https://rutube.ru/channel/76003443
