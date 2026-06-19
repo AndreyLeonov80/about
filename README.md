@@ -78,6 +78,17 @@ https://www.youtube.com/@aidialogru/shorts
 
 https://www.youtube.com/@hotpies8/videos
 
+https://youtu.be/KXVzNG0a-k4
+
+https://youtube.com/shorts/5ajdOfoYNzg
+
+https://rutube.ru/channel/76003443
+
+https://youtube.com/@aidialogru/courses
+
+Передача о кинообразовании через развлечения
+https://t.me/ktodast
+
 ### 2. CodeBoost
 Платформа для автоматического создания программного обеспечения и инженерной документации.
 
@@ -101,6 +112,7 @@ https://www.youtube.com/@hotpies8/videos
 
 - Сборка сцен, аналитика по инженерным данным и визуальные отчеты для принятия решений.
 - Поддержка сложных сценариев промышленной подготовки и проверки материалов.
+- создан патент (лежит в этом репозитории)
 
 ### 6. GostControl
 Подготовка и контроль ТЗ, пояснительных записок и проектных решений по ГОСТ и ФЗ.
@@ -175,3 +187,4 @@ https://www.youtube.com/@hotpies8/videos
 - Telegram: @aidialog
 - WhatsApp https://wa.me/qr/R7XN3MKJYBE4E1
 - Email: aidialog@mail.ru
+- Канал: https://t.me/aidialognews
