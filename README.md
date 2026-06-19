@@ -8,10 +8,6 @@
 
 Опыт в медиа, ритейле, нефтегазе, логистике, финтехе, образовании и гос-проектах. Проектирую платформы, AI-сервисы, CV-конвейеры, MLOps и on-prem решения без зависимости от облака.
 
-**Контакты:**
-- Telegram: aidialog@mail.ru
-- WhatsApp
-
 **Навыки:** AI / LLM / RAG | Computer Vision | Python / FastAPI / Docker | On-prem внедрение | Архитектура и MLOps
 
 ---
@@ -73,6 +69,11 @@ OCR, извлечение таблиц, чтение чертежей и схе�
 
 - Оценка и усиление удержания внимания в кино, сериалах, мультипликации, рекламе и edtech.
 - Комбинация аналитики, AI и продуктового слоя для управляемой работы с видео-контентом.
+
+https://www.youtube.com/@aidialogru
+https://www.youtube.com/@aidialogru/videos
+https://www.youtube.com/@aidialogru/shorts
+https://www.youtube.com/@hotpies8/videos
 
 ### 2. CodeBoost
 Платформа для автоматического создания программного обеспечения и инженерной документации.
@@ -167,6 +168,7 @@ OCR, извлечение таблиц, чтение чертежей и схе�
 
 Можно сразу прислать задачу, текущую боль, описание процесса или ссылки на материалы. Отвечу предметно и без лишней воды.
 
+- X: https://x.com/aidialog
 - Telegram: @aidialog
-- WhatsApp
+- WhatsApp https://wa.me/qr/R7XN3MKJYBE4E1
 - Email: aidialog@mail.ru
