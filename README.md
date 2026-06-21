@@ -65,7 +65,8 @@ OCR, извлечение таблиц, чтение чертежей и схе�
 
 Часть проектов идет как самостоятельные продукты, часть как отраслевые внедрения под контур конкретного заказчика.
 
-### 1. Собственный Продукт VideoBoost
+### 1. Собственный Продукт VideoBoost для автоматического видео-производства ip (intellectual property)
+
 Платформа управления влиянием видео на уровне кино-языка, кадра, сцены, персонажа, смысла.
 
 - Оценка и усиление удержания внимания в кино, сериалах, мультипликации, рекламе и edtech.
@@ -91,19 +92,11 @@ https://youtube.com/@aidialogru/courses
 
 https://www.linkedin.com/in/aronlandau
 
-Собственный продукт
-Программа помогает разрабатывать, внедрять, продавать сценарии
-https://storyfactory.codeboost.ru 
+# Собственные продукты ip (intellectual property):  
 
-Собственный продукт ip (intellectual property) 
-Передача о кинообразовании через развлечения
-https://t.me/ktodast
- 
-Кино ip (intellectual property) & science challenge
-
-https://github.com/AndreyLeonov80/bionumbers/blob/main/book-cinema/film_script.md
-
-https://github.com/AndreyLeonov80/bionumbers/blob/main/book-cinema/kniga_zaklyatie_znaniy.md
+- Программа помогает разрабатывать, внедрять, продавать сценарии https://storyfactory.codeboost.ru
+- Передача о кинообразовании через развлечения https://t.me/ktodast
+- Заклятие Знаний https://github.com/AndreyLeonov80/bionumbers/blob/main/book-cinema/kniga_zaklyatie_znaniy.md
 
 Каналы дистрибуции ip (intellectual property) в РФ:
 - https://nmg.ru
