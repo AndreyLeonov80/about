@@ -92,7 +92,7 @@ https://youtube.com/@aidialogru/courses
 
 https://www.linkedin.com/in/aronlandau
 
-# Собственные продукты ip (intellectual property):  
+### Собственные продукты ip (intellectual property):  
 
 - Программа помогает разрабатывать, внедрять, продавать сценарии https://storyfactory.codeboost.ru
 - Передача о кинообразовании через развлечения https://t.me/ktodast
