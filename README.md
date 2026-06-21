@@ -97,6 +97,24 @@ https://t.me/ktodast
 kino ip & science challenge
 https://github.com/AndreyLeonov80/bionumbers
 
+Каналы дистрибуции ip (intellectual property) в РФ:
+- https://nmg.ru
+- https://more.tv
+- https://amediateka.ru
+- https://wink.ru
+- https://vkvideo.ru
+- https://rutube.ru
+- http://ivi.ru
+- https://okko.tv
+- https://www.kinopoisk.ru
+- https://www.kion.ru
+- https://www.start.ru
+- https://beeline.ru
+- https://mts.ru
+
+Каналы дистрибуции ip (intellectual property) в мире:
+- по запросу более 1000 топ каналов/площадок международного кино-бизнеса
+
 ### 2. Собственный Продукт ScorifyRank:
 DSL Ai-Agent search, analyze and rank information from Telegram and the web into structured signals. https://t.me/scorifyrank
 
