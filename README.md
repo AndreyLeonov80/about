@@ -99,7 +99,6 @@ https://github.com/AndreyLeonov80/bionumbers
 
 Каналы дистрибуции ip (intellectual property) в РФ:
 - https://nmg.ru
-- https://more.tv
 - https://amediateka.ru
 - https://wink.ru
 - https://vkvideo.ru
