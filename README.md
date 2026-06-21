@@ -92,13 +92,13 @@ https://youtube.com/@aidialogru/courses
 
 https://www.linkedin.com/in/aronlandau
 
-### Собственные продукты ip (intellectual property):  
+#### Собственные продукты ip (intellectual property):  
 
 - Программа помогает разрабатывать, внедрять, продавать сценарии https://storyfactory.codeboost.ru
 - Передача о кинообразовании через развлечения https://t.me/ktodast
 - Заклятие Знаний https://github.com/AndreyLeonov80/bionumbers/blob/main/book-cinema/kniga_zaklyatie_znaniy.md
 
-Каналы дистрибуции ip (intellectual property) в РФ:
+#### Каналы дистрибуции ip (intellectual property) в РФ:
 - https://nmg.ru
 - https://amediateka.ru
 - https://wink.ru
@@ -112,7 +112,7 @@ https://www.linkedin.com/in/aronlandau
 - https://beeline.ru
 - https://mts.ru
 
-Каналы дистрибуции ip (intellectual property) в мире:
+#### Каналы дистрибуции ip (intellectual property) в мире:
 - по потребности/запросу более 1000 топ каналов/площадок международного кино-бизнеса
 
 ### 2. Собственный Продукт ScorifyRank:
