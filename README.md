@@ -1,4 +1,4 @@
-# Андрей Леонов (software & ai & cinema engineer)
+# Андрей Леонов (software & ai & cinema engineer + producer)
 ## Архитектор AI-фабрик дохода. Проектирую и внедрю AI-pipeline, который автоматизирует XX% процессов.
 
 ---
