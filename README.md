@@ -99,7 +99,9 @@ https://storyfactory.codeboost.ru
 https://t.me/ktodast
  
 Кино ip (intellectual property) & science challenge
+
 https://github.com/AndreyLeonov80/bionumbers/blob/main/book-cinema/film_script.md
+
 https://github.com/AndreyLeonov80/bionumbers/blob/main/book-cinema/kniga_zaklyatie_znaniy.md
 
 Каналы дистрибуции ip (intellectual property) в РФ:
