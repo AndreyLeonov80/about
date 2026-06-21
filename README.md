@@ -199,9 +199,14 @@ DSL Платформа для автоматического создания п
 - Email: aidialog@mail.ru
 
 Каналы:
-- https://x.com/aidialog
 - https://t.me/aidialognews
+- https://t.me/scorifyrank
+- https://t.me/ktodast
+
+- https://x.com/aidialog
+- https://www.linkedin.com/in/aronlandau/
+  
 - https://www.youtube.com/@aidialogru
 - https://rutube.ru/channel/76003443
-- https://max.ru/se13317930_biz
 
+- https://max.ru/se13317930_biz
