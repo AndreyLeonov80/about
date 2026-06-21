@@ -36,7 +36,8 @@ https://www.linkedin.com/in/aronlandau
 
 - Программа помогает разрабатывать, внедрять, продавать сценарии https://storyfactory.codeboost.ru
 - Передача о кинообразовании через развлечения https://t.me/ktodast
-- Заклятие Знаний https://github.com/AndreyLeonov80/bionumbers/blob/main/book-cinema/kniga_zaklyatie_znaniy.md
+- Заклятие Знаний
+  https://github.com/AndreyLeonov80/bionumbers/blob/main/book-cinema/kniga_zaklyatie_znaniy.md
 
 #### Каналы дистрибуции ip (intellectual property) в РФ:
 - https://nmg.ru
