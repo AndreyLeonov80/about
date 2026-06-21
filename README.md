@@ -71,6 +71,7 @@ OCR, извлечение таблиц, чтение чертежей и схе�
 - Оценка и усиление удержания внимания в кино, сериалах, мультипликации, рекламе и edtech.
 - Комбинация аналитики, AI и продуктового слоя для управляемой работы с видео-контентом.
 
+Автоматическое видео-производство на каналах
 https://www.youtube.com/@aidialogru
 
 https://www.youtube.com/@aidialogru/videos
@@ -87,15 +88,19 @@ https://rutube.ru/channel/76003443
 
 https://youtube.com/@aidialogru/courses
 
-Программа помогает разрабатывать, внедрять, продавать сценарии
-Собственный продукт https://storyfactory.codeboost.ru 
+https://www.linkedin.com/in/aronlandau
 
-Собственный продукт 
+Собственный продукт
+Программа помогает разрабатывать, внедрять, продавать сценарии
+https://storyfactory.codeboost.ru 
+
+Собственный продукт ip (intellectual property) 
 Передача о кинообразовании через развлечения
 https://t.me/ktodast
  
-kino ip & science challenge
-https://github.com/AndreyLeonov80/bionumbers
+Кино ip (intellectual property) & science challenge
+https://github.com/AndreyLeonov80/bionumbers/blob/main/book-cinema/film_script.md
+https://github.com/AndreyLeonov80/bionumbers/blob/main/book-cinema/kniga_zaklyatie_znaniy.md
 
 Каналы дистрибуции ip (intellectual property) в РФ:
 - https://nmg.ru
@@ -112,7 +117,7 @@ https://github.com/AndreyLeonov80/bionumbers
 - https://mts.ru
 
 Каналы дистрибуции ip (intellectual property) в мире:
-- по запросу более 1000 топ каналов/площадок международного кино-бизнеса
+- по потребности/запросу более 1000 топ каналов/площадок международного кино-бизнеса
 
 ### 2. Собственный Продукт ScorifyRank:
 DSL Ai-Agent search, analyze and rank information from Telegram and the web into structured signals. https://t.me/scorifyrank
