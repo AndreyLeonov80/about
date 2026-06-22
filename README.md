@@ -39,6 +39,8 @@ https://www.linkedin.com/in/aronlandau
 - Заклятие Знаний (книга, кино, сериал, мини-сериал, мастер-класс, science discovery, архитектура зданий)
   https://github.com/AndreyLeonov80/bionumbers/blob/main/book-cinema/kniga_zaklyatie_znaniy.md
 - Вертикальный Мини-сериал "Избушка" https://www.youtube.com/shorts/W8e1XPRibmg (тизер)
+- Вертикальный Мини-сериал "Banani" (скоро)
+- Вертикальный Мини-сериал "Цербер" (скоро)
 
 #### Каналы дистрибуции ip (intellectual property) в РФ:
 - https://nmg.ru
