@@ -32,7 +32,7 @@ https://youtube.com/@aidialogru/courses
 
 https://www.linkedin.com/in/aronlandau
 
-#### Собственные продукты ip (intellectual property):  
+#### Собственные продукты ip-бутик (intellectual property):  
 
 - Программа помогает разрабатывать, внедрять, продавать сценарии https://storyfactory.codeboost.ru
 - Передача о кинообразовании через развлечения https://t.me/ktodast
@@ -58,6 +58,14 @@ https://www.linkedin.com/in/aronlandau
 
 #### Каналы дистрибуции ip (intellectual property) в мире:
 - по потребности/запросу более 1000 топ каналов/площадок международного кино-бизнеса
+
+#### ip-бутик
+
+Я сейчас делаю несколько авторских кинопроектов — смесь мифологии, визуальной драматургии и новых технологий. Работаю с AI-системой, которая помогает собирать всё от идеи до тизеров и пилотов.
+
+Параллельно смотрю разные идеи и миры (IP), которые можно развивать в кино, сериалы или digital-вселенные.
+
+Если ты тоже в этой теме или просто есть интересный замысел — давай пообщаемся, всегда интересно обменяться мыслями.
 
 ### 2. Собственный продукт ScorifyRank:
 DSL Ai-Agent search, analyze and rank information from Telegram and the web into structured signals. https://t.me/scorifyrank
