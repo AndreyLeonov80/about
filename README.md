@@ -38,6 +38,7 @@ https://www.linkedin.com/in/aronlandau
 - Передача о кинообразовании через развлечения https://t.me/ktodast
 - Заклятие Знаний (книга, кино, сериал, мини-сериал, мастер-класс, science discovery, архитектура зданий)
   https://github.com/AndreyLeonov80/bionumbers/blob/main/book-cinema/kniga_zaklyatie_znaniy.md
+- Вертикальный Мини-сериал "Избушка" https://www.youtube.com/shorts/W8e1XPRibmg (тизер)
 
 #### Каналы дистрибуции ip (intellectual property) в РФ:
 - https://nmg.ru
