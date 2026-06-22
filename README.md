@@ -63,6 +63,8 @@ https://www.linkedin.com/in/aronlandau
 
 ![ip-boutique-horizontal](ip-boutique-horizontal.png)
 
+https://youtube.com/shorts/FdSZsmkzc6o
+
 Я сейчас делаю несколько авторских кинопроектов — смесь мифологии, визуальной драматургии и новых технологий.
 Работаю с собственным продуктом VideoBoost - AI-системой, которая помогает собирать всё от идеи до тизеров и пилотов.
 
