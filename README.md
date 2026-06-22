@@ -41,6 +41,7 @@ https://www.linkedin.com/in/aronlandau
 - Вертикальный Мини-сериал "Избушка" https://www.youtube.com/shorts/W8e1XPRibmg (тизер)
 - Вертикальный Мини-сериал "Banani" (скоро)
 - Вертикальный Мини-сериал "Цербер" (скоро)
+- Мини-сериал "Носач" (скоро) https://www.youtube.com/playlist?list=PLHWlM0Clp4XZUR97atONR6wE6iq8B9vOq
 
 #### Каналы дистрибуции ip (intellectual property) в РФ:
 - https://nmg.ru
