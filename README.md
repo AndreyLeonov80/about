@@ -61,7 +61,7 @@ https://www.linkedin.com/in/aronlandau
 
 #### ip-бутик
 
-[ip-boutique-horizontal.png](ip-boutique-horizontal.png)
+[ip-boutique-horizontal](ip-boutique-horizontal.png)
 
 Я сейчас делаю несколько авторских кинопроектов — смесь мифологии, визуальной драматургии и новых технологий.
 Работаю с собственным продуктом VideoBoost - AI-системой, которая помогает собирать всё от идеи до тизеров и пилотов.
