@@ -42,6 +42,7 @@ https://www.linkedin.com/in/aronlandau
 - Вертикальный Мини-сериал "Banani" (скоро)
 - Вертикальный Мини-сериал "Цербер" (скоро)
 - Мини-сериал "Носач" (скоро) https://www.youtube.com/playlist?list=PLHWlM0Clp4XZUR97atONR6wE6iq8B9vOq
+- Мини-сериал RodinaHub (скоро) https://github.com/AndreyLeonov80/RodinaHub
 
 Я уже запустил несколько форматов на YouTube в теме кино и видеопродакшена.
 
