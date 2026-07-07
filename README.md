@@ -19,7 +19,9 @@
 
 [Управление ИИ Проектами](https://kaiten.ru?refLinkId=258003&partnerId=227835)
 
-[Оплата ИИ сервисов](https://t.me/WantToPayBot?start=w17851188--8DWJ74)
+[Оплата ИИ. Cервис 1](https://t.me/WantToPayBot?start=w17851188--8DWJ74)
+
+[Оплата ИИ. Cервис 2](https://platipomiru.com/?code=Q0CQULGE)
 
 Автоматическое видео-производство на каналах
 
