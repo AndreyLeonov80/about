@@ -14,9 +14,10 @@
 
 Продукт интегрирован с:
 
-[doitong](https://doitong.ru?ref=AGENT5986)
 
-[kaiten](https://kaiten.ru?refLinkId=258003&partnerId=227835)
+<a href="https://doitong.ru?ref=AGENT5986" target="_blank">Производство ИИ Контента</a>
+
+<a href="https://kaiten.ru?refLinkId=258003&partnerId=227835" target="_blank">Управление ИИ Проектами</a>
 
 Автоматическое видео-производство на каналах
 
