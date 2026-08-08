@@ -267,16 +267,29 @@ PRODUCTION
 
 ---
 
-# Контакты и проекты
+# Каналы и проекты
 
-- [GitHub](https://github.com/AndreyLeonov80)
-- [CodeBoost](https://codeboost.ru)
-- [StoryFactory](https://storyfactory.codeboost.ru)
-- [ScorifyRank](https://t.me/scorifyrank)
-- [AI Dialogue](https://www.youtube.com/@aidialogru)
-- [YouTube Shorts](https://www.youtube.com/@aidialogru/shorts)
+https://rutube.ru/channel/76003443  
+
+https://www.youtube.com/@aidialogru
+https://www.youtube.com/@aidialogru/shorts
+https://www.youtube.com/@hotpies8/videos
+
+https://t.me/aidialognews
+https://t.me/scorifyrank
+https://t.me/ktodast
+
+[GitHub](https://github.com/AndreyLeonov80)
 
 ---
+# Контакты
+
+Можно сразу прислать задачу, текущую боль, описание процесса или ссылки на материалы. Отвечу предметно и без лишней воды.
+- Telegram: [@aidialog](https://t.me/aidialog)
+- https://max.ru/se13317930_biz
+- https://x.com/aidialog
+- https://www.linkedin.com/in/aronlandau/
+- Email: aidialog@mail.ru
 
 # Коротко
 
