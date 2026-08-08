@@ -278,7 +278,9 @@ https://www.youtube.com/@aidialogru/shorts
 https://www.youtube.com/@hotpies8/videos
 
 https://t.me/aidialognews
+
 https://t.me/scorifyrank
+
 https://t.me/ktodast
 
 [GitHub](https://github.com/AndreyLeonov80)
