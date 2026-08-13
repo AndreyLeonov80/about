@@ -5,6 +5,10 @@
 >
 > Не продаю часы разработки. Проектирую и внедряю работающие AI-системы: от бизнес-задачи и архитектуры до AI-прототипа и production.
 
+Внедряю собственную разработку
+VideoBoost Revenue Engine для автоматического видео-производства ip (intellectual property)
+https://github.com/AndreyLeonov80/about/blob/main/README-IP.md
+
 ---
 
 ## AI не конкурент. AI — мой производственный инструмент.
