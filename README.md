@@ -3,7 +3,11 @@
 
 IT/AI/Автоматизация https://github.com/AndreyLeonov80/about/blob/main/README-IT.md
 
-IP/Сinema/Media/Реклама https://github.com/AndreyLeonov80/about/blob/main/README-IP.md
+IP/Сinema/Media/Реклама
+
+https://github.com/AndreyLeonov80/about/blob/main/README-IP.md
+
+https://www.youtube.com/playlist?list=PLFYK3xG0c9zs
 
 Вирусное видео и мини-сериалы
 
@@ -29,3 +33,7 @@ https://www.litres.ru/book/raznoe/10x-kto-vladeet-budushchim-74327897
 https://www.litres.ru/audiobook/raznoe/10x-kto-vladeet-budushchim-74327899/
 
 https://www.youtube.com/watch?v=coobP9oB7iY&list=PLFYK3xG0c9zs&index=2
+
+aidialog@mail.ru
+https://t.me/aidialog
+
