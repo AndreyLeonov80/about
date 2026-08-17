@@ -34,6 +34,8 @@ https://www.litres.ru/audiobook/raznoe/10x-kto-vladeet-budushchim-74327899/
 
 https://www.youtube.com/watch?v=coobP9oB7iY&list=PLFYK3xG0c9zs&index=2
 
+
 aidialog@mail.ru
+
 https://t.me/aidialog
 
