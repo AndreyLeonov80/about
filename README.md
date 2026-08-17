@@ -1,9 +1,9 @@
 # Андрей Леонов
 ## AI Systems Architect · AI Producer
 
-IT/AI https://github.com/AndreyLeonov80/about/blob/main/README-IT.md
+IT/AI/Автоматизация https://github.com/AndreyLeonov80/about/blob/main/README-IT.md
 
-IP https://github.com/AndreyLeonov80/about/blob/main/README-IP.md
+IP/Сinema/Media/Реклама https://github.com/AndreyLeonov80/about/blob/main/README-IP.md
 
 Вирусное видео и мини-сериалы
 
