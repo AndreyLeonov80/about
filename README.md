@@ -9,6 +9,16 @@ https://github.com/AndreyLeonov80/about/blob/main/README-IP.md
 
 https://www.youtube.com/playlist?list=PLFYK3xG0c9zs
 
+Практика
+AI CONTENT PRODUCER
+ОТ ПРОМТА ДО IP-БИЗНЕСА
+
+https://cloud.mail.ru/public/LDpV/42ZGUTemx
+
+Портфолио
+
+https://cloud.mail.ru/public/6GbA/LnUn5ewWd
+
 Вирусное видео и мини-сериалы
 
 Есть возможность быстро и автоматически создавать большое количество небольших конвертирующих и вирусных видео под конкретные задачи, а затем дорабатывать и масштабировать лучшие варианты на основе обратной связи маркетинга и рекламных метрик.
