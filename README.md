@@ -15,6 +15,10 @@ AI CONTENT PRODUCER
 
 https://cloud.mail.ru/public/LDpV/42ZGUTemx
 
+СОЗДАВАЙ РЕКЛАМНЫЕ ИСТОРИИ, КОТОРЫЕ МОЖНО ПРОДАВАТЬ.
+
+https://cloud.mail.ru/public/U5b1/nCxB4tCrJ
+
 Портфолио
 
 https://cloud.mail.ru/public/6GbA/LnUn5ewWd
