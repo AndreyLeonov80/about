@@ -5,6 +5,8 @@ IT/AI/Автоматизация https://github.com/AndreyLeonov80/about/blob/ma
 
 IP/Сinema/Media/Реклама
 
+Портфолио https://cloud.mail.ru/public/6GbA/LnUn5ewWd
+
 https://github.com/AndreyLeonov80/about/blob/main/README-IP.md
 
 https://www.youtube.com/playlist?list=PLFYK3xG0c9zs
