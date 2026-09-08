@@ -1,5 +1,5 @@
 # Андрей Леонов
-## AI Systems Architect · AI Producer
+## AI Systems Architect · Full stack devloper
 
 > **30+ лет создаю сложные цифровые системы. Сегодня использую AI Agents, чтобы строить их быстрее.**
 >
