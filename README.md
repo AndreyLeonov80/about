@@ -5,7 +5,7 @@ CV https://cloud.mail.ru/public/XUc9/j5UsAs5Zo
 
 IT/AI/Автоматизация https://github.com/AndreyLeonov80/about/blob/main/README-IT.md
 
-Развиваю платформу[RodinaHub](https://github.com/AndreyLeonov80/RodinaHub) и модуль который помогает готовить ответы на любые вопросы, БФТ и ТЗ для любых КФХ задач, сейчас делаю тесты на курятнике - ищу кто смог бы потестировать из профессионалов
+Развиваю платформу [RodinaHub](https://github.com/AndreyLeonov80/RodinaHub) и модуль который помогает готовить ответы на любые вопросы, БФТ и ТЗ для любых КФХ задач, сейчас делаю тесты на курятнике - ищу кто смог бы потестировать из профессионалов
 
 IP/Сinema/Media/Реклама
 
