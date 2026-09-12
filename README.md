@@ -1,6 +1,8 @@
 # Андрей Леонов
 ## AI Systems Architect · AI Producer
 
+CV https://cloud.mail.ru/public/XUc9/j5UsAs5Zo
+
 IT/AI/Автоматизация https://github.com/AndreyLeonov80/about/blob/main/README-IT.md
 
 IP/Сinema/Media/Реклама
