@@ -1,6 +1,15 @@
 # Андрей Леонов
 ## AI Systems Architect · AI Producer
 
+📚 Книги, которые я выпустил:
+https://www.litres.ru/author/andrey-leonov-34028902
+
+🎬 Видео:
+https://cloud.mail.ru/public/6GbA/LnUn5ewWd
+ 
+👤 Подробнее обо мне и моих проектах:
+https://github.com/AndreyLeonov80/about
+
 CV https://cloud.mail.ru/public/XUc9/j5UsAs5Zo
 
 IT/AI/Автоматизация https://github.com/AndreyLeonov80/about/blob/main/README-IT.md
