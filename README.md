@@ -12,11 +12,13 @@ https://github.com/AndreyLeonov80/about
 
 CV IT/AI
 
-https://hh.ru/resume/40309014ff0d04fc800039ed1f4c324e62314c
-
 [https://cloud.mail.ru/public/XUc9/j5UsAs5Zo](https://cloud.mail.ru/public/9hxs/QyLToy1po)
 
+https://hh.ru/resume/40309014ff0d04fc800039ed1f4c324e62314c
+
 CV edTech
+
+https://cloud.mail.ru/public/PDhn/JUerk1Nnz
 
 https://hh.ru/resume/a0cf3085ff111ab7d70039ed1f754e784d6169
 
