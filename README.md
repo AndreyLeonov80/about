@@ -10,11 +10,15 @@ https://cloud.mail.ru/public/6GbA/LnUn5ewWd
 👤 Подробнее обо мне и моих проектах:
 https://github.com/AndreyLeonov80/about
 
-CV 
+CV IT/AI
 
 https://hh.ru/resume/40309014ff0d04fc800039ed1f4c324e62314c
 
 [https://cloud.mail.ru/public/XUc9/j5UsAs5Zo](https://cloud.mail.ru/public/9hxs/QyLToy1po)
+
+CV edTech
+
+https://hh.ru/resume/a0cf3085ff111ab7d70039ed1f754e784d6169
 
 IT/AI/Автоматизация https://github.com/AndreyLeonov80/about/blob/main/README-IT.md
 
