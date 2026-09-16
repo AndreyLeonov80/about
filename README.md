@@ -2,7 +2,17 @@
 ## AI Systems Architect · AI Producer
 
 📚 Книги, которые я выпустил:
-https://www.litres.ru/author/andrey-leonov-34028902
+
+Выпущенные мной книги по результатам внедрений:
+
+ИИ Агенты: https://www.litres.ru/74461887/
+
+CDC Core. Как научить компьютер разбирать строительную документацию: https://www.litres.ru/book/raznoe/cdc-core-kak-nauchit-komp-iuter-razbirat-stroitel-nuiu-dokumentatsi-74436654/
+
+ScorifyRank: как превратить хаос Telegram-чатов в конвейер сделок: https://www.litres.ru/book/raznoe/scorifyrank-kak-prevratit-khaos-telegram-chatov-v-konveier-sdelok-74436604/
+
+MiniMax H3: Промты для видео ИИ: 
+https://www.litres.ru/book/raznoe/minimax-h3-promty-dlia-video-ii-74387434/
 
 🎬 Видео:
 https://cloud.mail.ru/public/6GbA/LnUn5ewWd
