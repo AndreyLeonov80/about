@@ -6,7 +6,18 @@
 > Не продаю часы разработки. Проектирую и внедряю работающие AI-системы: от бизнес-задачи и архитектуры до AI-прототипа и production.
 
 ---
+Выпущенные мной книги по результатам внедрений:
 
+ИИ Агенты: https://www.litres.ru/74461887/
+
+CDC Core. Как научить компьютер разбирать строительную документацию: https://www.litres.ru/book/raznoe/cdc-core-kak-nauchit-komp-iuter-razbirat-stroitel-nuiu-dokumentatsi-74436654/
+
+ScorifyRank: как превратить хаос Telegram-чатов в конвейер сделок: https://www.litres.ru/book/raznoe/scorifyrank-kak-prevratit-khaos-telegram-chatov-v-konveier-sdelok-74436604/
+
+MiniMax H3: Промты для видео ИИ: 
+https://www.litres.ru/book/raznoe/minimax-h3-promty-dlia-video-ii-74387434/
+
+---
 Внедряю собственную разработку:
 VideoBoost Revenue Engine для автоматического видео-производства ip (intellectual property)
 https://github.com/AndreyLeonov80/about/blob/main/README-IP.md
