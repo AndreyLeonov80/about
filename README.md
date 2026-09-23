@@ -9,7 +9,11 @@ https://www.litres.ru/book/raznoe/zolotaia-rybka-74401669/
 
 🎬 Видео:
 https://cloud.mail.ru/public/6GbA/LnUn5ewWd
- 
+
+https://www.instagram.com/capybaraviralvideo/
+
+https://github.com/AndreyLeonov80/about/blob/main/README-IP.md 
+
 👤 Подробнее обо мне и моих проектах:
 https://github.com/AndreyLeonov80/about
 
